@@ -65,6 +65,7 @@ Users should be able to:
   }
 - navigator object: contains information about the browser.
   .clipboard.writeText()
+  
   Overall it was a very wonderful project.
 
 ## Author
