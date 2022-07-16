@@ -1,4 +1,4 @@
-# 8. Color generator
+# 9. Color generator
 
 Generates light and dark shades of a color code
 
@@ -59,10 +59,12 @@ Users should be able to:
   .all(num)
 - useRef to add # onFocus
 - converting rgba to hex code:
+
   function componentToHex(c) {
   var hex = c.toString(16);
   return hex.length === 1 ? "0" + hex : hex;
   }
+
 - navigator object: contains information about the browser.
   .clipboard.writeText()
   
